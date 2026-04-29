@@ -3,6 +3,8 @@
 Implementacao em **Java** da base inicial do Trabalho Pratico 5 da disciplina
 **Resolucao de Problemas com Grafos**.
 
+Link do vídeo: https://youtu.be/0nGR7ukjxqE
+
 ## Estrutura
 
 ```text
